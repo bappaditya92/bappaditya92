@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Native, Native App Development**
 
-- 💬 Ask me about ** Java, React.js & AWS**
+- 💬 Ask me about **Java,React.js,AWS**
 
 - 📫 How to reach me **bappadityasinha.92@gmail.com**
 
