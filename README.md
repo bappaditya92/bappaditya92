@@ -1,6 +1,6 @@
 # Hi 👋, I'm Bappaditya Sinha
 
-### Full Stack Developer | Java | Spring Boot | React | AWS
+### Full Stack Developer | Java | Spring Boot | MicroServices| React | AWS
 
 ---
 
