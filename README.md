@@ -50,7 +50,7 @@ talk_to_me_about: [Java, Spring Boot, React, AWS, APIs, System Design]
 
 **Database & Tools**
 <br/>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,postman" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,postman,github" />
 
 </div>
 
