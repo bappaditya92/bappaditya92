@@ -1,93 +1,111 @@
-# Hi 👋, I'm Bappaditya Sinha
+<div align="center">
 
-### Full Stack Developer | Java | Spring Boot | Microservices | React | AWS | Docker | CI/CD
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00EA64&height=200&section=header&text=Bappaditya%20Sinha&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20AWS&descAlignY=55&descSize=18" />
 
----
+<a href="https://linkedin.com/in/bappaditya-sinha"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://leetcode.com/pseudo_booster/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://codeforces.com/profile/bappaditya92"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/bappadityasinha1"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/></a>
+<a href="mailto:bappadityasinha.92@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-## 👨‍💻 About Me
+<br/>
 
-- 💼 Full Stack Developer focused on backend + cloud systems
-- 🔬 4 years of R&D background in network systems, now building production-grade backend applications
-- 🚀 Building **RapidEats** and **VaultCore** — full-stack projects exploring microservices, AWS, and Docker/Kubernetes
-- 🌱 Currently learning **React Native & Mobile Development**
-- ☁️ Interested in **AWS, System Design, and Microservices**
-- 💬 Ask me about **Java, Spring Boot, React, AWS, APIs**
-- 📫 Email: **bappadityasinha.92@gmail.com**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00EA64&center=true&vCenter=true&width=600&lines=Backend+%2B+Cloud+Systems+Developer;Java+%7C+Spring+Boot+%7C+Microservices;Building+RapidEats+%26+VaultCore;Always+learning%2C+always+building." />
 
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/bappaditya-sinha" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/pseudo_booster/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="https://codeforces.com/profile/bappaditya92" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-  </a>
-  <a href="https://www.hackerrank.com/bappadityasinha1" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
-  </a>
-</p>
+</div>
 
 ---
 
-## 🛠 Tech Stack
+### 👨‍💻 About Me
 
-**Backend:** Java, Spring Boot, Node.js
-**Frontend:** React, JavaScript, HTML, CSS, TypeScript
-**Cloud:** AWS, Azure
-**Database:** MySQL, MongoDB, PostgreSQL
-**Tools:** Docker, Kubernetes, Git, GitHub, Linux, Postman
-
----
-
-## 📊 GitHub Analytics
-
-### 📌 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bappaditya92&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
-
-### 📌 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bappaditya92&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-### 📌 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=bappaditya92&theme=tokyonight&hide_border=true" />
-</p>
+```yaml
+role: Full Stack Developer — Backend & Cloud Systems
+background:
+  - 2+ years industry experience (Java, Spring Boot, REST APIs, PostgreSQL, AWS)
+  - 4 years R&D experience in Network Systems (TCP/UDP communication modules)
+currently:
+  - 🏗️  Building RapidEats & VaultCore (full-stack, microservices architecture)
+  - 🌱  Learning React Native & Mobile Development
+  - ☁️  Exploring AWS, System Design & Kubernetes
+talk_to_me_about: [Java, Spring Boot, React, AWS, APIs, System Design]
+```
 
 ---
 
-## 📈 Contribution Graph
+### 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bappaditya92&theme=tokyo-night&hide_border=true" />
-</p>
+<div align="center">
+
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs" />
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css" />
+
+**Cloud & DevOps**
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,git,linux" />
+
+**Database & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,postman" />
+
+</div>
 
 ---
 
-## 🏆 Highlights
+### 📊 GitHub Analytics
 
+<div align="center">
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=bappaditya92&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bappaditya92&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</div>
+
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=bappaditya92&theme=tokyonight&hide_border=true&background=0D1117" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bappaditya92&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
+</div>
+
+---
+
+### 🏆 Highlights
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Experience**
 - Strong foundation in Data Structures & Algorithms
-- 2+ years of industry experience building REST APIs and microservices with Spring Boot
-- 4 years of prior R&D experience in network systems (TCP/UDP communication modules)
+- 2+ years building REST APIs & microservices with Spring Boot
+- 4 years of R&D in network systems (TCP/UDP)
+- Hands-on with AWS, Docker & Kubernetes deployments
+
+</td>
+<td width="50%" valign="top">
+
+**Projects**
+- 🍔 **RapidEats** — full-stack food ordering platform
+- 🔐 **VaultCore** — secure backend service project
 - Built multiple full-stack web applications
-- Hands-on cloud deployment experience with AWS, Docker, and Kubernetes
+- Sharpening cloud-native skills through hands-on builds
+
+</td>
+</tr>
+</table>
 
 ---
 
-## ✨ Quote
+<div align="center">
 
-> "Code is not just written, it's engineered."
+> *"Code is not just written, it's engineered."*
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00EA64,100:0077B5&height=100&section=footer" />
 
-<p align="center">
-  ⭐ Thanks for visiting my profile ⭐
-</p>
+⭐ **Thanks for visiting my profile!** ⭐
+
+</div>
