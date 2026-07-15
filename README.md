@@ -46,7 +46,7 @@ talk_to_me_about: [Java, Spring Boot, React, AWS, APIs, System Design]
 
 **Cloud & DevOps**
 <br/>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,linux,terraform,Github Actions" />
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,linux,terraform,ci/cd" />
 
 **Database & Tools**
 <br/>
