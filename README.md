@@ -19,7 +19,7 @@
 ### 👨‍💻 About Me
 
 ```yaml
-role: Full Stack Developer — Backend & Cloud Systems
+role: Full Stack Java Developer — Backend & DevOps
 background:
   - 2+ years industry experience (Java, Spring Boot, REST APIs, PostgreSQL, AWS)
   - 4 years R&D experience in Network Systems (TCP/UDP communication modules)
