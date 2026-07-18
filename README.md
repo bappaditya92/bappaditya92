@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00EA64&center=true&vCenter=true&width=600&lines=Backend+%2B+Cloud+Systems+Developer;Java+%7C+Spring+Boot+%7C+Microservices;Building+RapidEats+%26+VaultCore;Always+learning%2C+always+building." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00EA64&center=true&vCenter=true&width=600&lines=Backend+%2B+DevOps+Developer;Java+%7C+Spring+Boot+%7C+Microservices;Building+RapidEats+%26+VaultCore;Always+learning%2C+always+building." />
 
 </div>
 
